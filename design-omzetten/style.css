@@ -1,0 +1,13 @@
+body {background-color: lightcyan;}
+.navigatiebar {display:flex;justify-content:space-evenly; background-color:white; 
+    padding:15px}
+h4 {color:firebrick;}
+.R {display:flex; flex-direction:column;}
+.T {display:flex; justify-content:space-around}
+li {list-style-type:none;}
+.talen {color:firebrick;}
+.end {display:flex; justify-content:center;}
+.background {
+    height:500px;
+     background-image:url("background.png"); background-repeat:no-repeat; 
+     background-attachment:fixed;background-size: cover;}
